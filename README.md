@@ -6,6 +6,19 @@ Aplikasi katalog untuk menelusuri buku akademik, menyimpan referensi, dan mengel
 **NIM:** 1247050044 — S1 Teknik Informatika, Semester 5  
 **Profil:** [fathanra.vercel.app](https://fathanra.vercel.app)
 
+## Demo produksi dan repository
+
+- [Live Demo — Katalog Referensi Buku Akademik](https://fathanra-catalog.vercel.app)
+- [Repository GitHub — F-Academic-Book-Catalog](https://github.com/fathanra-20/F-Academic-Book-Catalog)
+
+## Bukti screenshot
+
+![Katalog Open Library beserta search, filter, sorting, dan pagination](./screenshots/catalog-home.png)
+
+![Halaman detail buku dari rute dinamis](./screenshots/book-detail.png)
+
+![Form catatan dengan validasi dan daftar bacaan](./screenshots/notes-interactive.png)
+
 ## Fitur utama
 
 - Mencari buku dari Open Library API, dengan tampilan loading, error, dan empty state.
